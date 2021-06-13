@@ -1,0 +1,23 @@
+h1{ 
+    /* ubah warna */
+    color:blue;
+    /* ubah posisi konten */
+    text-align: center;
+    /* margin : mengatur jarak antar konten */
+    margin-bottom: 40px;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+}   
+
+/* styling class */
+.paragraf-1{
+    color: green;
+    font-weight: bold;
+}
+
+.box-1{
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar{
+    text-align: center;
+    margin-top: 30px;
+    /* ini ga ngefek karena yang di style, divnya */
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.navbar-menu{
+    text-decoration: none;
+    margin-right: 24px;
+    color: #4F5665;
+}
+
+.heading{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.judul-1{
+    font-weight: 500;
+}
+
+.button-merah{
+    background-color: #f53838;
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+.section-gambar{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.ilustrasi{
+    margin-bottom: 60px;
+}
+
+.logo{
+    margin-right: 70px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #FAFAFA;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
